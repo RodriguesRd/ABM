@@ -1,0 +1,212 @@
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\WcfServiceApp.dll.config
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\WcfServiceApp.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\WcfServiceApp.pdb
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\Microsoft.Win32.Primitives.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\netstandard.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.AppContext.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Collections.Concurrent.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Collections.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Collections.NonGeneric.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Collections.Specialized.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.ComponentModel.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.ComponentModel.Primitives.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Console.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Data.Common.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Diagnostics.Contracts.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Diagnostics.Debug.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Diagnostics.Process.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Diagnostics.StackTrace.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Diagnostics.Tools.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Diagnostics.TraceSource.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Diagnostics.Tracing.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Drawing.Primitives.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Dynamic.Runtime.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Globalization.Calendars.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Globalization.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Globalization.Extensions.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.Compression.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.Compression.ZipFile.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.FileSystem.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.IsolatedStorage.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.Pipes.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Linq.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Linq.Expressions.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Linq.Parallel.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Linq.Queryable.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.Http.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.NameResolution.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.NetworkInformation.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.Ping.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.Primitives.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.Requests.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.Security.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.Sockets.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.WebHeaderCollection.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.WebSockets.Client.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Net.WebSockets.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.ObjectModel.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Reflection.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Reflection.Extensions.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Reflection.Primitives.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Resources.Reader.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Resources.ResourceManager.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Resources.Writer.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.Extensions.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.Handles.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.InteropServices.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.Numerics.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.Serialization.Json.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Security.Claims.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Security.Cryptography.Csp.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Security.Principal.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Security.SecureString.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Text.Encoding.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Text.Encoding.Extensions.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Text.RegularExpressions.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Threading.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Threading.Overlapped.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Threading.Tasks.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Threading.Thread.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Threading.ThreadPool.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Threading.Timer.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.ValueTuple.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Xml.ReaderWriter.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Xml.XDocument.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Xml.XmlDocument.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Xml.XmlSerializer.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Xml.XPath.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\System.Xml.XPath.XDocument.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\ABM.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\bin\ABM.pdb
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\obj\Debug\WcfServiceApp.csprojAssemblyReference.cache
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.CopyComplete
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\obj\Debug\WcfServiceApp.dll
+C:\Users\personel\source\repos\ABM TEST\WcfServiceApp\obj\Debug\WcfServiceApp.pdb
+C:\source\Project_ABM\WcfServiceApp\bin\WcfServiceApp.dll.config
+C:\source\Project_ABM\WcfServiceApp\bin\WcfServiceApp.dll
+C:\source\Project_ABM\WcfServiceApp\bin\WcfServiceApp.pdb
+C:\source\Project_ABM\WcfServiceApp\bin\Microsoft.Win32.Primitives.dll
+C:\source\Project_ABM\WcfServiceApp\bin\netstandard.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.AppContext.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Collections.Concurrent.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Collections.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Collections.NonGeneric.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Collections.Specialized.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.ComponentModel.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.ComponentModel.EventBasedAsync.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.ComponentModel.Primitives.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.ComponentModel.TypeConverter.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Console.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Data.Common.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Diagnostics.Contracts.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Diagnostics.Debug.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Diagnostics.FileVersionInfo.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Diagnostics.Process.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Diagnostics.StackTrace.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Diagnostics.Tools.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Diagnostics.TraceSource.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Diagnostics.Tracing.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Drawing.Primitives.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Dynamic.Runtime.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Globalization.Calendars.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Globalization.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Globalization.Extensions.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.Compression.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.Compression.ZipFile.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.FileSystem.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.FileSystem.DriveInfo.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.FileSystem.Primitives.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.FileSystem.Watcher.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.IsolatedStorage.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.MemoryMappedFiles.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.Pipes.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.IO.UnmanagedMemoryStream.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Linq.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Linq.Expressions.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Linq.Parallel.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Linq.Queryable.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.Http.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.NameResolution.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.NetworkInformation.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.Ping.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.Primitives.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.Requests.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.Security.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.Sockets.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.WebHeaderCollection.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.WebSockets.Client.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Net.WebSockets.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.ObjectModel.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Reflection.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Reflection.Extensions.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Reflection.Primitives.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Resources.Reader.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Resources.ResourceManager.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Resources.Writer.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.Extensions.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.Handles.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.InteropServices.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.Numerics.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.Serialization.Formatters.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.Serialization.Json.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.Serialization.Primitives.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Runtime.Serialization.Xml.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Security.Claims.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Security.Cryptography.Algorithms.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Security.Cryptography.Csp.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Security.Cryptography.Encoding.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Security.Cryptography.Primitives.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Security.Cryptography.X509Certificates.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Security.Principal.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Security.SecureString.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Text.Encoding.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Text.Encoding.Extensions.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Text.RegularExpressions.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Threading.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Threading.Overlapped.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Threading.Tasks.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Threading.Tasks.Parallel.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Threading.Thread.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Threading.ThreadPool.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Threading.Timer.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.ValueTuple.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Xml.ReaderWriter.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Xml.XDocument.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Xml.XmlDocument.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Xml.XmlSerializer.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Xml.XPath.dll
+C:\source\Project_ABM\WcfServiceApp\bin\System.Xml.XPath.XDocument.dll
+C:\source\Project_ABM\WcfServiceApp\bin\ABM.dll
+C:\source\Project_ABM\WcfServiceApp\bin\ABM.pdb
+C:\source\Project_ABM\WcfServiceApp\obj\Debug\WcfServiceApp.csprojAssemblyReference.cache
+C:\source\Project_ABM\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.CoreCompileInputs.cache
+C:\source\Project_ABM\WcfServiceApp\obj\Debug\WcfServiceApp.csproj.CopyComplete
+C:\source\Project_ABM\WcfServiceApp\obj\Debug\WcfServiceApp.dll
+C:\source\Project_ABM\WcfServiceApp\obj\Debug\WcfServiceApp.pdb

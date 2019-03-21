@@ -1,0 +1,18 @@
+C:\Users\personel\source\repos\ABM TEST\ABM\bin\Debug\netstandard2.0\ABM.deps.json
+C:\Users\personel\source\repos\ABM TEST\ABM\bin\Debug\netstandard2.0\ABM.dll
+C:\Users\personel\source\repos\ABM TEST\ABM\bin\Debug\netstandard2.0\ABM.pdb
+C:\Users\personel\source\repos\ABM TEST\ABM\obj\Debug\netstandard2.0\ABM.csprojAssemblyReference.cache
+C:\Users\personel\source\repos\ABM TEST\ABM\obj\Debug\netstandard2.0\ABM.csproj.CoreCompileInputs.cache
+C:\Users\personel\source\repos\ABM TEST\ABM\obj\Debug\netstandard2.0\ABM.AssemblyInfoInputs.cache
+C:\Users\personel\source\repos\ABM TEST\ABM\obj\Debug\netstandard2.0\ABM.AssemblyInfo.cs
+C:\Users\personel\source\repos\ABM TEST\ABM\obj\Debug\netstandard2.0\ABM.dll
+C:\Users\personel\source\repos\ABM TEST\ABM\obj\Debug\netstandard2.0\ABM.pdb
+C:\source\Project_ABM\ABM\bin\Debug\netstandard2.0\ABM.deps.json
+C:\source\Project_ABM\ABM\bin\Debug\netstandard2.0\ABM.dll
+C:\source\Project_ABM\ABM\bin\Debug\netstandard2.0\ABM.pdb
+C:\source\Project_ABM\ABM\obj\Debug\netstandard2.0\ABM.csprojAssemblyReference.cache
+C:\source\Project_ABM\ABM\obj\Debug\netstandard2.0\ABM.csproj.CoreCompileInputs.cache
+C:\source\Project_ABM\ABM\obj\Debug\netstandard2.0\ABM.AssemblyInfoInputs.cache
+C:\source\Project_ABM\ABM\obj\Debug\netstandard2.0\ABM.AssemblyInfo.cs
+C:\source\Project_ABM\ABM\obj\Debug\netstandard2.0\ABM.dll
+C:\source\Project_ABM\ABM\obj\Debug\netstandard2.0\ABM.pdb
