@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\Project_ABM\\ABM\\ABM.csproj",
+      "projectUniqueName": "C:\\Users\\personel\\ABM\\ABM\\ABM.csproj",
       "projectName": "ABM",
-      "projectPath": "C:\\source\\Project_ABM\\ABM\\ABM.csproj",
+      "projectPath": "C:\\Users\\personel\\ABM\\ABM\\ABM.csproj",
       "packagesPath": "C:\\Users\\personel\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\Project_ABM\\ABM\\obj\\",
+      "outputPath": "C:\\Users\\personel\\ABM\\ABM\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
